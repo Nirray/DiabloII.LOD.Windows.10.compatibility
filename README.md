@@ -9,9 +9,9 @@ Patched:
 
 
 Additional compatibility:
-* PlugY 11.02 by Yohann Nicolas @[PlugY](http://plugy.free.fr/en/)
+* PlugY 11.02 by Yohann Nicolas @[PlugY](http://plugy.free.fr/en/) - :exclamation: download from official site
 * D2MultiRes (included) [Originally works only for version up to 1.13c]
-* GLIDE3-to-OpenGL-Wrapper @[Glide3](http://www.svenswrapper.de/english/)
+* GLIDE3-to-OpenGL-Wrapper @[Glide3](http://www.svenswrapper.de/english/) - :exclamation: download from official site
 
 * Addon: Larger inventory window
 * Addon: Larger stash window
