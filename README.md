@@ -1,5 +1,5 @@
 # Diablo II Lord Of Destruction 1.13d Windows 10 and mod-kit compatibility patch
-Diablo II Lord of Destruction 1.13d Windows 10 fix with add-ons that never worked together + support for private game hosting (official host disabled)
+Diablo II Lord of Destruction 1.13d Windows 10 fix with add-ons that never worked together + private network game hosting fixed [LAN] (official host disabled)
 # List of changes
 Patched:
 * D2DDraw.dll
@@ -31,7 +31,11 @@ Remember to create shortcut with arguments: "-direct -txt -3dfx -w"
 
 # In-game screenshots
 ![First](http://nirray.bplaced.net/Download/Github/d2/1.jpg)
+
 ![Second](http://nirray.bplaced.net/Download/Github/d2/2.jpg)
+
 ![Third](http://nirray.bplaced.net/Download/Github/d2/3.jpg)
+
 ![Fourth](http://nirray.bplaced.net/Download/Github/d2/4.PNG)
+
 ![Fifth](http://nirray.bplaced.net/Download/Github/d2/5.PNG)
