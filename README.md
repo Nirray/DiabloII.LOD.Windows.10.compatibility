@@ -30,8 +30,8 @@ Additional compatibility:
 Remember to create shortcut with arguments: "-direct -txt -3dfx -w"
 
 # In-game screenshots
-![First](http://nirray.bplaced.net/Download/Github/D2LOD/1.jpg)
-![Second](http://nirray.bplaced.net/Download/Github/D2LOD/2.jpg)
-![Third](http://nirray.bplaced.net/Download/Github/D2LOD/3.jpg)
-![Fourth](http://nirray.bplaced.net/Download/Github/D2LOD/4.PNG)
-![Fifth](http://nirray.bplaced.net/Download/Github/D2LOD/5.PNG)
+![First](http://nirray.bplaced.net/Download/Github/d2/1.jpg)
+![Second](http://nirray.bplaced.net/Download/Github/d2/2.jpg)
+![Third](http://nirray.bplaced.net/Download/Github/d2/3.jpg)
+![Fourth](http://nirray.bplaced.net/Download/Github/d2/4.PNG)
+![Fifth](http://nirray.bplaced.net/Download/Github/d2/5.PNG)
