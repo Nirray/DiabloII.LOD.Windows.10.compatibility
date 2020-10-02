@@ -9,9 +9,9 @@ Patched:
 
 
 Additional compatibility:
-* PlugY 11.02 by Yohann Nicolas
-* D2MultiRes (included)
-* GLIDE3-to-OpenGL-Wrapper
+* PlugY 11.02 by Yohann Nicolas @[PlugY](http://plugy.free.fr/en/)
+* D2MultiRes (included) [Originally works only for version up to 1.13c]
+* GLIDE3-to-OpenGL-Wrapper @[Glide3](http://www.svenswrapper.de/english/)
 
 * Addon: Larger inventory window
 * Addon: Larger stash window
@@ -31,11 +31,10 @@ Remember to create shortcut with arguments: "-direct -txt -3dfx -w"
 
 # In-game screenshots
 ![First](http://nirray.bplaced.net/Download/Github/d2/1.jpg)
-
-![Second](http://nirray.bplaced.net/Download/Github/d2/2.jpg)
+![Sixth](http://nirray.bplaced.net/Download/Github/d2/6.jpg)
 
 ![Third](http://nirray.bplaced.net/Download/Github/d2/3.jpg)
-
 ![Fourth](http://nirray.bplaced.net/Download/Github/d2/4.PNG)
 
 ![Fifth](http://nirray.bplaced.net/Download/Github/d2/5.PNG)
+![Second](http://nirray.bplaced.net/Download/Github/d2/2.jpg)
