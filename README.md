@@ -28,13 +28,3 @@ Additional compatibility:
 * Exe: Fixed cache cleaning and log-generate
 # Important
 Remember to create shortcut with arguments: "-direct -txt -3dfx -w"
-
-# In-game screenshots
-![First](http://nirray.bplaced.net/Download/Github/d2/1.jpg)
-![Sixth](http://nirray.bplaced.net/Download/Github/d2/6.jpg)
-
-![Third](http://nirray.bplaced.net/Download/Github/d2/3.jpg)
-![Fourth](http://nirray.bplaced.net/Download/Github/d2/4.PNG)
-
-![Fifth](http://nirray.bplaced.net/Download/Github/d2/5.PNG)
-![Second](http://nirray.bplaced.net/Download/Github/d2/2.jpg)
