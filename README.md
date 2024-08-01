@@ -9,7 +9,7 @@ Patched:
 
 
 Additional compatibility:
-* PlugY 11.02 by Yohann Nicolas @[PlugY]([http://plugy.free.fr/en/](https://web.archive.org/web/20240215000000*/plugy.free.fr)) - :exclamation: download from official site
+* PlugY 11.02 by Yohann Nicolas @[PlugY]([http://plugy.free.fr/en/](https://web.archive.org/web/20240215000000*/plugy.free.fr) - :exclamation: download from official site
 * D2MultiRes (included) [Originally works only for version up to 1.13c]
 * GLIDE3-to-OpenGL-Wrapper by Sven Labusch @[Glide3](http://www.svenswrapper.de/english/) - :exclamation: download from official site
 
